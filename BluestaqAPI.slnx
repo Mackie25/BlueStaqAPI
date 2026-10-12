@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BluestaqAPI/BluestaqAPI.csproj" />
+  <Project Path="BlueStaqUnitTests/BlueStaqUnitTests.csproj" Id="7a4c45a4-a414-47cb-8f70-8a3303deac86" />
+</Solution>

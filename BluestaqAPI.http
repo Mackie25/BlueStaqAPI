@@ -1,0 +1,6 @@
+@BluestaqAPI_HostAddress = http://localhost:5064
+
+GET {{BluestaqAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
