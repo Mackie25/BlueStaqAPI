@@ -14,3 +14,11 @@ Task<int> UpdateNote(Notes note);
 
 A unit test project is also added to test the logic for each endpoint
 
+I first setup a project to see that endpoints I think I needed.
+
+Then created them and thought about what models would be good for this project
+This project can be used to link this design to any table for any database in the future so having a userId who created it and date created and modified is great to have.
+I added in Active bool to make sure nothing is deleted as it can just be set to inactive if no longer needed.
+
+
+
